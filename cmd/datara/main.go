@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/gin/datara"
+	"github.com/akmalulginan/datara"
 )
 
 type MigrationConfig struct {

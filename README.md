@@ -5,7 +5,7 @@ Library Go untuk mengkonversi struct Go menjadi skema migrasi database.
 ## Instalasi
 
 ```bash
-go get -u github.com/gin/datara
+go get -u github.com/akmalulginan/datara
 ```
 
 ## Penggunaan

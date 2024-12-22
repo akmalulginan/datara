@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gin/datara"
+	"github.com/akmalulginan/datara"
 )
 
 func TestGenerateSQL(t *testing.T) {
